@@ -1,6 +1,6 @@
 # CARE
 SDA是一個function檔，main都是主程式，請將SDA與各主程式放在同一資料夾，並執行主程式。
-\undeline{Update}
+  
 1. 0802是處理8x8矩陣  
 2. 8x8是處理8x8矩陣並優化gamma選取  
 3. 16x16是處理16x16矩陣並優化gamma選取  
